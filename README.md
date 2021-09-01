@@ -12,12 +12,15 @@ Este repositório serve para listar os meus principais códigos em desenvolvimen
 ## Lista de Repositórios
 ---
 
-* Cursos
+* Cursos:
 ---
-1. 
+1. [Curso DevPro - libpythonpro](https://github.com/HenriqueCCdA/libpythonpro)
+2. [Curso DevPro - pythonbirds](https://github.com/HenriqueCCdA/pythonbirds)
+3. [Quiz DevPro](https://github.com/HenriqueCCdA/quizDevPro)
+5. [Curso Alura Java](https://github.com/HenriqueCCdA/Java)
 ---
 
-* Estudos livres
+* Estudos livres:
 ---
 1. 
 
@@ -29,15 +32,14 @@ Este repositório serve para listar os meus principais códigos em desenvolvimen
 ## Lista de Repositórios
 ---
 
-* Cursos
+* Cursos:
+---
+1. [Alura Imersao React](https://github.com/HenriqueCCdA/ImersaoReact)
+2. [Alura Imersão Dev](https://github.com/HenriqueCCdA/ImersaoDev01)
+---
+
+* Estudos livres:
 ---
 1. 
----
-
-* Estudos livres
----
-1. 
 
 ---
-
-[<img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](henrique.ccda@gmail.com)
