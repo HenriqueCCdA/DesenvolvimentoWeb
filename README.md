@@ -21,7 +21,7 @@ Este repositório serve para listar os meus principais códigos em **desenvolvim
 6. [Curso DevPro - Django](https://github.com/HenriqueCCdA/cursoDjangoDevPro)
 ---
 
-* Estudos livres: Aqui tem alguns estudos que eu fiz por contata prórpria
+* Estudos livres: Aqui tem alguns estudos que eu fiz por contata própria
 ---
 1. 
 
@@ -39,7 +39,7 @@ Este repositório serve para listar os meus principais códigos em **desenvolvim
 2. [Alura Imersão Dev](https://github.com/HenriqueCCdA/ImersaoDev01)
 ---
 
-* Estudos livres: Aqui tem alguns estudos que eu fiz por contata prórpria
+* Estudos livres: Aqui tem alguns estudos que eu fiz por contata própria
 ---
 1. 
 
