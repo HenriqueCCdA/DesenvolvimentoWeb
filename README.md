@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/last-commit/HenriqueCCdA/bootCampAluraDataScience?style=plasti&ccolor=blue)
+![](https://img.shields.io/github/last-commit/HenriqueCCdA/DesenvolvimentoWeb?style=plasti&ccolor=blue)
 ![](https://img.shields.io/badge/Autor-Henrique%20C%20C%20de%20Andrade-blue)
 
 ---
@@ -11,13 +11,11 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 
 ## Portfólio: 🔥🔥🔥 
 
-Alguns projetos que usei para aplicar meus estudos de **Desevolvimento Web** em casos reais:
-
 1. [UrlReduce](https://github.com/HenriqueCCdA/urlReduce): Nesse projeto eu desenvolvi um redutor de url. O projeto é basedo em um projeto do curso [Python Pro](https://pythonpro.com.br/)
 
 ---
 
-## BackEnd 🐶:
+## BackEnd: 🦕
 ---
 
 ### Lista de Repositórios: 🛠
@@ -39,7 +37,7 @@ Alguns projetos que usei para aplicar meus estudos de **Desevolvimento Web** em 
 1. 
 
 ---
-## FrontEnd 🐱
+## FrontEnd: 🦖
 
 ### Lista de Repositórios: 🛠
 ---
