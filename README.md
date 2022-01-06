@@ -32,7 +32,8 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 7. [Curso Flask da Udemy](https://github.com/HenriqueCCdA/FlaskMasterclassUdemy)
 8. [Curso Flask API da Udemy](https://github.com/HenriqueCCdA/FlaskApiUdemy)
 9. [Cursos de Elixir da Alura](https://github.com/HenriqueCCdA/AluraElixirCursos)
-10. [Curso de Django rest da Udemy](https://github.com/HenriqueCCdA/DjangoRestUdemy)
+10. [Curso de Django Rest da Udemy](https://github.com/HenriqueCCdA/DjangoRestUdemy)
+11. [Curso de Django da Udemy](https://github.com/HenriqueCCdA/DjangoUdemy/blob/main/README.md)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
