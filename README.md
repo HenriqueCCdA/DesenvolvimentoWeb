@@ -51,6 +51,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 1. [Alura Imersao React](https://github.com/HenriqueCCdA/ImersaoReact)
 2. [Alura Imersão Dev](https://github.com/HenriqueCCdA/ImersaoDev01)
 3. [Formação FrontEnd da Alura](https://github.com/HenriqueCCdA/AluraFormacaoFrontEnd)
+4. [Alura JavaScript](https://github.com/HenriqueCCdA/AluraJavaScript)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
