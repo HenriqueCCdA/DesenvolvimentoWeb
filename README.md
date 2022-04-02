@@ -21,7 +21,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 ### Lista de Repositórios: 🛠
 ---
 
-* Cursos: Aqui estão alguns cursos que eu viz.
+* Cursos: Aqui estão alguns cursos que eu fiz.
 ---
 1. [Curso DevPro - libpythonpro](https://github.com/HenriqueCCdA/libpythonpro)
 2. [Curso DevPro - pythonbirds](https://github.com/HenriqueCCdA/pythonbirds)
@@ -48,7 +48,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 ### Lista de Repositórios: 🛠
 ---
 
-* Cursos: Aqui estão alguns cursos que eu viz.
+* Cursos: Aqui estão alguns cursos que eu fiz.
 ---
 1. [Alura Imersao React](https://github.com/HenriqueCCdA/ImersaoReact)
 2. [Alura Imersão Dev](https://github.com/HenriqueCCdA/ImersaoDev01)
@@ -69,7 +69,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 ### Lista de Repositórios: 🛠
 ---
 
-* Cursos: Aqui estão alguns cursos que eu viz.
+* Cursos: Aqui estão alguns cursos que eu fiz.
 ---
 1. [Formação PostgreSQL da Alura](https://github.com/HenriqueCCdA/AluraFormacaoPostgreSQL)
 2. [Cursos MongoDB Alura](https://github.com/HenriqueCCdA/MongoDB_Alura)
