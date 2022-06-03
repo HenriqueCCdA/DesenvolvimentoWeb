@@ -56,6 +56,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 4. [Alura JavaScript](https://github.com/HenriqueCCdA/AluraJavaScript)
 5. [Formação typescript da Alura](https://github.com/HenriqueCCdA/AluraFormacaoTypescript)
 6. [Formação React da Alura](https://github.com/HenriqueCCdA/FormacaoReactAlura)
+7. [Curso de JavaScript da Udemy](https://github.com/HenriqueCCdA/JavaScriptGeekUni)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
