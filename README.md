@@ -11,8 +11,10 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 
 ## Portfólio: 🔥🔥🔥 
 
-1. [UrlReduce](https://github.com/HenriqueCCdA/urlReduce): Nesse projeto eu desenvolvi um redutor de url. O projeto é basedo em um projeto do curso [Python Pro](https://pythonpro.com.br/)
-
+1. [UrlReduce](https://urlreduce.herokuapp.com/): Projeto Django publicado no heroku [link para o github](https://github.com/HenriqueCCdA/urlReduce)
+2. [QuizDevPro](https://quizdevprov2.herokuapp.com/): Projeto Django publicado no heroku [link para o github](https://github.com/HenriqueCCdA/quizDevPro-v2)
+3. [Frutaria](https://frutaria-hcca.herokuapp.com/): Projeto React publicado no heroku.
+4. [TODOList](https://django-todo-list-hcca.herokuapp.com/): Projeto Django publicado no heroku [link para o github](https://github.com/HenriqueCCdA/todo_list_django)
 ---
 
 ## BackEnd: 🦕
@@ -57,6 +59,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 5. [Formação typescript da Alura](https://github.com/HenriqueCCdA/AluraFormacaoTypescript)
 6. [Formação React da Alura](https://github.com/HenriqueCCdA/FormacaoReactAlura)
 7. [Curso de JavaScript da Udemy](https://github.com/HenriqueCCdA/JavaScriptGeekUni)
+8. [Curso de React da Udemy](https://github.com/HenriqueCCdA/ReactUdemy)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
