@@ -38,6 +38,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 11. [Curso de Django da Udemy](https://github.com/HenriqueCCdA/DjangoUdemy/blob/main/README.md)
 12. [Curso de FastApi da Udemy](https://github.com/HenriqueCCdA/FastApiCourse2022)
 13. [Curso de Design_de_API do Henrique Bastos](https://github.com/HenriqueCCdA/Design_de_API_na_pratica)
+14: [Curso da React-Django da Udemy](https://www.udemy.com/course/practice-application-development-with-react-and-django)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
