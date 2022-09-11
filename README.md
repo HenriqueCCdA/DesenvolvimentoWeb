@@ -38,7 +38,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 11. [Curso de Django da Udemy](https://github.com/HenriqueCCdA/DjangoUdemy/blob/main/README.md)
 12. [Curso de FastApi da Udemy](https://github.com/HenriqueCCdA/FastApiCourse2022)
 13. [Curso de Design_de_API do Henrique Bastos](https://github.com/HenriqueCCdA/Design_de_API_na_pratica)
-14: [Curso da React-Django da Udemy](https://www.udemy.com/course/practice-application-development-with-react-and-django)
+14. [Formação node.js com express](https://github.com/HenriqueCCdA/FormacaoNodeJsExpress)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
@@ -61,7 +61,6 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 6. [Formação React da Alura](https://github.com/HenriqueCCdA/FormacaoReactAlura)
 7. [Curso de JavaScript da Udemy](https://github.com/HenriqueCCdA/JavaScriptGeekUni)
 8. [Curso de React da Udemy](https://github.com/HenriqueCCdA/ReactUdemy)
-7. [Formação node.js com express](https://github.com/HenriqueCCdA/FormacaoNodeJsExpress)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
@@ -87,6 +86,22 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 1.
 ---
 
+---
+## FullStack: 🦏
 
+### Lista de Repositórios: 🛠
+---
+
+* Cursos: Aqui estão alguns cursos que eu fiz.
+---
+1. [Curso da React-Django da Udemy](https://github.com/HenriqueCCdA/ReactDjangoAzure)
+1. [Curso da React-Django da Udemy](https://github.com/HenriqueCCdA/reactDjango)
+---
+
+* Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
+---
+1. 
+
+---
 
 
