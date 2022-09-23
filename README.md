@@ -61,6 +61,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 6. [Formação React da Alura](https://github.com/HenriqueCCdA/FormacaoReactAlura)
 7. [Curso de JavaScript da Udemy](https://github.com/HenriqueCCdA/JavaScriptGeekUni)
 8. [Curso de React da Udemy](https://github.com/HenriqueCCdA/ReactUdemy)
+9. [Curso de React da Udemy - do zero a maestria](https://github.com/HenriqueCCdA/ReactUdemyZeroMaestria)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
