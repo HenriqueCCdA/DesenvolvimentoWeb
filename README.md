@@ -94,8 +94,9 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 
 * Cursos: Aqui estão alguns cursos que eu fiz.
 ---
-1. [Curso da React-Django da Udemy](https://github.com/HenriqueCCdA/ReactDjangoAzure)
-1. [Curso da React-Django da Udemy](https://github.com/HenriqueCCdA/reactDjango)
+1. [Curso da React-Django-Azure da Udemy](https://github.com/HenriqueCCdA/ReactDjangoAzure)
+2. [Curso da React-Django da Udemy](https://github.com/HenriqueCCdA/reactDjango)
+3. [Docker GeekUniversity](https://github.com/HenriqueCCdA/DockerGeekUniversity)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
