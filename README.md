@@ -39,6 +39,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 12. [Curso de FastApi da Udemy](https://github.com/HenriqueCCdA/FastApiCourse2022)
 13. [Curso de Design_de_API do Henrique Bastos](https://github.com/HenriqueCCdA/Design_de_API_na_pratica)
 14. [Formação node.js com express](https://github.com/HenriqueCCdA/FormacaoNodeJsExpress)
+15. [Formação DRF Alura](https://github.com/HenriqueCCdA/AluraFormacaoDRF)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
