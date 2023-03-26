@@ -64,6 +64,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 7. [Curso de JavaScript da Udemy](https://github.com/HenriqueCCdA/JavaScriptGeekUni)
 8. [Curso de React da Udemy](https://github.com/HenriqueCCdA/ReactUdemy)
 9. [Curso de React da Udemy - do zero a maestria](https://github.com/HenriqueCCdA/ReactUdemyZeroMaestria)
+10. [Formação Alura: Gerencie estados em React com Redux](https://github.com/HenriqueCCdA/ReactGestaoDeEstados)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
