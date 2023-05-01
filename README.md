@@ -11,10 +11,10 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 
 ## Portfólio: 🔥🔥🔥 
 
-1. [UrlReduce](https://urlreduce.herokuapp.com/): Projeto Django publicado no heroku [link para o github](https://github.com/HenriqueCCdA/urlReduce)
-2. [QuizDevPro](https://quizdevprov2.herokuapp.com/): Projeto Django publicado no heroku [link para o github](https://github.com/HenriqueCCdA/quizDevPro-v2)
-3. [Frutaria](https://frutaria-hcca.herokuapp.com/): Projeto React publicado no heroku.
-4. [TODOList](https://django-todo-list-hcca.herokuapp.com/): Projeto Django publicado no heroku [link para o github](https://github.com/HenriqueCCdA/todo_list_django)
+1. [UrlReduce](https://github.com/HenriqueCCdA/urlReduce): Django
+2. [QuizDevPro](https://github.com/HenriqueCCdA/quizDevPro-v2): Django
+3. [TODOList](https://github.com/HenriqueCCdA/todo_list_django): Django
+4. [Adopet](https://github.com/HenriqueCCdA/adopet-api): React + Django Rest Framework
 ---
 
 ## BackEnd: 🦕
@@ -41,11 +41,16 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 14. [Formação node.js com express](https://github.com/HenriqueCCdA/FormacaoNodeJsExpress)
 15. [Formação DRF Alura](https://github.com/HenriqueCCdA/AluraFormacaoDRF)
 16. [Programação Concorrente e Assíncrona com Python](https://github.com/HenriqueCCdA/AssincPythonGeekUniv)
+17. [Workshop LinuxTips FastAPI](https://github.com/HenriqueCCdA/FastApiWorkShop)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
 ---
-1. [Django Rest Framework](https://github.com/HenriqueCCdA/DjangoRestToken)
+1. [Django Rest Framework](https://github.com/HenriqueCCdA/DjangoRestToken): Estudando a tokens no DRF
+2. [Django Rest Framework](https://github.com/HenriqueCCdA/TutorialDRF): Estudando a Documentação
+3. [Django](https://github.com/HenriqueCCdA/DjangoDoc): Estudando a Documentação
+4. [FastAPI](https://github.com/HenriqueCCdA/fastapi-doc): Estudando a Documentação
+4. [Django](https://github.com/HenriqueCCdA/PhoneDjango): Testando o pacote phonenumber_field
 
 ---
 ## FrontEnd: 🦖
