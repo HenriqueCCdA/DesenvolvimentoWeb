@@ -71,6 +71,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 9. [Curso de React da Udemy - do zero a maestria](https://github.com/HenriqueCCdA/ReactUdemyZeroMaestria)
 10. [Formação Alura: Gerencie estados em React com Redux](https://github.com/HenriqueCCdA/ReactGestaoDeEstados)
 11. [Formação Alura: Ouse com o Framework Vue.js 3](https://github.com/HenriqueCCdA/FormacaoAluraVue)
+12. [Formação Alura: Melhore sua aplicação React com o Next.js](https://github.com/HenriqueCCdA/FormacaoAluraNextJs)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
@@ -107,6 +108,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 1. [Curso da React-Django-Azure da Udemy](https://github.com/HenriqueCCdA/ReactDjangoAzure)
 2. [Curso da React-Django da Udemy](https://github.com/HenriqueCCdA/reactDjango)
 3. [Docker GeekUniversity](https://github.com/HenriqueCCdA/DockerGeekUniversity)
+4. [Full stack JavaScript: crie um projeto com React e Node.js](https://cursos.alura.com.br/formacao-full-stack-react-node-js)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
