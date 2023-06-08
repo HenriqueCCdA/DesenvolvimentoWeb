@@ -42,6 +42,7 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 15. [Formação DRF Alura](https://github.com/HenriqueCCdA/AluraFormacaoDRF)
 16. [Programação Concorrente e Assíncrona com Python](https://github.com/HenriqueCCdA/AssincPythonGeekUniv)
 17. [Workshop LinuxTips FastAPI](https://github.com/HenriqueCCdA/FastApiWorkShop)
+18. [FastAPI - GeekUnervity](https://github.com/HenriqueCCdA/GeekUnervityFastAPI)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
