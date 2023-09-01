@@ -74,7 +74,8 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 11. [Formação Alura: Ouse com o Framework Vue.js 3](https://github.com/HenriqueCCdA/FormacaoAluraVue)
 12. [Formação Alura: Melhore sua aplicação React com o Next.js](https://github.com/HenriqueCCdA/FormacaoAluraNextJs)
 13. [Formação Alura: Desenvolva aplicações Web com JavaScript](https://github.com/HenriqueCCdA/FormacaoALuraWebJavaScript)
-14. [Melhore sua experiência JavaScript com Svelte](https://github.com/HenriqueCCdA/FormacaoAluraSvelte)
+14. [Formação Alura: Melhore sua experiência JavaScript com Svelte](https://github.com/HenriqueCCdA/FormacaoAluraSvelte)
+15. [Formação Alura: A partir do zero: HTML e CSS para projetos web](https://github.com/HenriqueCCdA/FormacaoAluraHTMLeCSS)
 ---
 
 * Estudos livres: Aqui tem alguns estudos que eu fiz por conta própria
