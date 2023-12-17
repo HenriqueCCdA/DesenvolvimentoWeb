@@ -15,6 +15,12 @@ Este repositório serve para listar os meus principais códigos em **Desenvolvim
 2. [QuizDevPro](https://github.com/HenriqueCCdA/quizDevPro-v2): Django
 3. [TODOList](https://github.com/HenriqueCCdA/todo_list_django): Django
 4. [Adopet](https://github.com/HenriqueCCdA/adopet-api): React + Django Rest Framework
+5. [Triangulo Infos](https://github.com/HenriqueCCdA/TriangInfos): Vue + FastAPI
+6. [Jornada Milhas](https://github.com/HenriqueCCdA/jornada-milhas): Django Rest Framework
+7. [Seed Prediction](https://github.com/HenriqueCCdA/seed_prediction): FastAPI + PyTorch
+8. [Alura Books](https://github.com/HenriqueCCdA/aluraBooksFastAPI): React + FastAPI
+9. [Tracker-drf](https://github.com/HenriqueCCdA/tracker-drf): Vue + Django Rest Framework
+10. [AluraFlixApi](https://github.com/HenriqueCCdA/backend5): Django Rest Framework
 ---
 
 ## BackEnd: 🦕
